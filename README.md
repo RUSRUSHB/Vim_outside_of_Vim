@@ -2,9 +2,15 @@
 
 在Vim编辑器以外进行类Vim操作。Performing Vim-like operations outside of the Vim editor.
 
-# `voov_default` 映射列表
+[English README is here](#how-to-use)
 
-## 中文
+## 如何使用
+
+1. 下载并双击`.exe`启动映射。
+2. 此方案通过按下`Capslock`生效。例如，`Capslock+J` 会输出 `下方向键`.。
+3. 若需要正常使用`Capslock`键，则可按`Shift+Capslock`或`Ctrl+Capslock`或`Alt+Capslock`。
+
+## `voov_default` 映射列表
 
 | 快捷键           | 功能             | 提示                       |
 | ---------------- | ---------------- | -------------------------- |
@@ -27,10 +33,15 @@
 | CapsLock + E     | 向下滚动         |                            |
 | CapsLock + Z     | 左键单击         |                            |
 | CapsLock + C     | 右键单击         |                            |
+|CapsLock|Esc键||
 
-## English
+## How to Use 
 
-# `voov_default` Shortcuts Overview
+1. Download and double click the `.exe` to start the script.
+2. The mapping is enable when `Capslock` is pressed. e.g., `Capslock+J` will generate `down arrow`.
+3. If you want to use the `Caplock` normally, press `Shift+Capslock` or `Ctrl+Capslock` or `Alt+Capslock`
+
+## `voov_default` Shortcuts Overview
 
 | Shortcut         | Function                  | Hint                       |
 | ---------------- | ------------------------- | -------------------------- |
@@ -53,3 +64,4 @@
 | CapsLock + E     | Scroll Down               |                            |
 | CapsLock + Z     | Left Click                |                            |
 | CapsLock + C     | Right Click               |                            |
+|CapsLock|Esc Key||
